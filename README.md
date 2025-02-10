@@ -49,3 +49,6 @@ python bot.py
 - Follow the prompts to generate assignments
 - Select subjects and difficulty levels
 
+## Links
+
+- ppt about this project - [link](https://docs.google.com/presentation/d/1djQIi3frp6LiRTy0csvNy4b9qWB4h8Kh/edit?usp=sharing&ouid=115519395596751426109&rtpof=true&sd=true)
